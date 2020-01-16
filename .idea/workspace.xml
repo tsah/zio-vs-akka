@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="794c70b2-1fc4-436e-91a7-41f94555afc5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VpbVdhDx1zHn0JaITmsnAAx7OX" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.NaiveAkkaWithTTLMain">
+    <configuration name="CorrectAkkaMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cache.CorrectAkkaMain" />
+      <module name="akka-zio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CorrectZioWithUnreliableCalcMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cache.CorrectZioWithUnreliableCalcMain" />
+      <module name="akka-zio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NaiveAkkaWithTTLMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cache.NaiveAkkaWithTTLMain" />
+      <module name="akka-zio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NaiveZioMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cache.NaiveZioMain" />
+      <module name="akka-zio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NaiveZioWithTTLMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cache.NaiveZioWithTTLMain" />
+      <module name="akka-zio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NaiveAkkaWithTTLMain" />
+        <item itemvalue="Application.CorrectAkkaMain" />
+        <item itemvalue="Application.CorrectZioWithUnreliableCalcMain" />
+        <item itemvalue="Application.NaiveZioWithTTLMain" />
+        <item itemvalue="Application.NaiveZioMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="akka-zio" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/Users/tsah/dev/git/personal/zio-akka/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="akka-zio-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4733625528755" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2332149746" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="4224318038" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../akka-seed.g8" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-broker-research-im" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-currency-pairs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-entity-extractor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-gatling" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-market-index" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-microservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-microservice-base" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-microservice-template.g8" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-microservice-template.g8/target/sbt-test/calais-microservice-template/scripted" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-non-english-tagger" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-one-calais-im" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-orchestrator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-social-tags" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-text-handler" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calais-topic-classifier" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dms-cmwell-sandbox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dummy-dms" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../experiments/cats-io-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../experiments/cats-sandbox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../experiments/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../experiments/minimal-scala-lib-seed" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../experiments/my-calais-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../experiments/play-kamon" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../microservices/model" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-playground" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../functional-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../money-machine" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive/actorbintree" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive/async" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive/followers" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive/kvstore" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive/protocols" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive/streaming" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zio-intro-game" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zio-workshop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../trit-workers/feature-tests" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="794c70b2-1fc4-436e-91a7-41f94555afc5" name="Default Changelist" comment="" />
+      <created>1577953008261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577953008261</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="202" width="840" height="669" key="#Project_Structure" timestamp="1577953046628">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="431" y="202" width="840" height="669" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1577953046628" />
+    <state x="611" y="315" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1578255109618">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="611" y="315" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578255109618" />
+    <state x="698" y="324" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1920.1057/1920.23.1920.1057/3840.23.1680.1027@0.23.1920.1057" timestamp="1577973031251" />
+    <state x="510" y="458" width="660" height="160" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1577953062327">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="510" y="458" width="660" height="160" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1577953062327" />
+    <state x="644" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1578467200331">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="644" y="241" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1578467200331" />
+    <state x="528" y="270" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578038422225">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="528" y="270" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578038422225" />
+    <state width="1878" height="288" key="GridCell.Tab.0.bottom" timestamp="1579080747945">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1024" height="61" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1579084634220">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1024" height="61" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1024.768@0.0.1024.768" timestamp="1579084634220" />
+    <state width="982" height="30" key="GridCell.Tab.0.bottom.inPresentationMode/0.23.1024.745@0.23.1024.745" timestamp="1579082263728" />
+    <state width="1638" height="289" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1578254872377" />
+    <state width="1878" height="288" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1920.1057/3840.23.1680.1027@0.23.1920.1057" timestamp="1579080747945" />
+    <state width="1878" height="288" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1920.1057/3840.23.1680.1027@1920.23.1920.1057" timestamp="1578496162873" />
+    <state width="1878" height="288" key="GridCell.Tab.0.center" timestamp="1579080747943">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1024" height="61" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1579084634218">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1024" height="61" key="GridCell.Tab.0.center.inPresentationMode/0.0.1024.768@0.0.1024.768" timestamp="1579084634218" />
+    <state width="982" height="30" key="GridCell.Tab.0.center.inPresentationMode/0.23.1024.745@0.23.1024.745" timestamp="1579082263727" />
+    <state width="1638" height="289" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1578254872376" />
+    <state width="1878" height="288" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1920.1057/3840.23.1680.1027@0.23.1920.1057" timestamp="1579080747943" />
+    <state width="1878" height="288" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1920.1057/3840.23.1680.1027@1920.23.1920.1057" timestamp="1578496162872" />
+    <state width="1878" height="288" key="GridCell.Tab.0.left" timestamp="1579080747942">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1024" height="61" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1579084634218">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1024" height="61" key="GridCell.Tab.0.left.inPresentationMode/0.0.1024.768@0.0.1024.768" timestamp="1579084634218" />
+    <state width="982" height="30" key="GridCell.Tab.0.left.inPresentationMode/0.23.1024.745@0.23.1024.745" timestamp="1579082263727" />
+    <state width="1638" height="289" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1578254872375" />
+    <state width="1878" height="288" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1920.1057/3840.23.1680.1027@0.23.1920.1057" timestamp="1579080747942" />
+    <state width="1878" height="288" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1920.1057/3840.23.1680.1027@1920.23.1920.1057" timestamp="1578496162872" />
+    <state width="1878" height="288" key="GridCell.Tab.0.right" timestamp="1579080747944">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1024" height="61" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1579084634219">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1024" height="61" key="GridCell.Tab.0.right.inPresentationMode/0.0.1024.768@0.0.1024.768" timestamp="1579084634219" />
+    <state width="982" height="30" key="GridCell.Tab.0.right.inPresentationMode/0.23.1024.745@0.23.1024.745" timestamp="1579082263727" />
+    <state width="1638" height="289" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1578254872376" />
+    <state width="1878" height="288" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1920.1057/3840.23.1680.1027@0.23.1920.1057" timestamp="1579080747944" />
+    <state width="1878" height="288" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1920.1057/3840.23.1680.1027@1920.23.1920.1057" timestamp="1578496162873" />
+    <state x="575" y="165" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578319560421">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="575" y="165" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.1057/1920.23.1920.1057/3840.23.1680.1027@0.23.1920.1057" timestamp="1578319560421" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1578467352893">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1578467352893" />
+  </component>
+</project>
